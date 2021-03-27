@@ -1,0 +1,2 @@
+# IntelligentAccessControlSystem
+这是一个基于机器学习的人脸识别系统，识别出正确的人脸并进行开门操作
